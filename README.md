@@ -8,49 +8,45 @@ This project is a responsive personal portfolio web application developed using 
 
 ### Home Page
 
-* Hero section with name, role, and tagline
-* Featured skills section
-* Responsive design
+- Hero section with name, role, and tagline
+- Featured skills section
+- Responsive design
 
 ### About Page
 
-* Personal biography
-* Skills and interests
-* Premium portfolio-style layout
+- Personal biography
+- Skills and interests
+- Premium portfolio-style layout
 
 ### Contact Page
 
-* Name, Email, and Message fields
-* Client-side form validation
-* Error messages for invalid inputs
-* Success confirmation message
+- Name, Email, and Message fields
+- Client-side form validation
+- Error messages for invalid inputs
+- Success confirmation message
 
 ### Additional Features
 
-* React Router navigation
-* Responsive layout for mobile and desktop devices
-* Dark and Light theme toggle
-* Theme preference saved using Local Storage
-* Accessibility-friendly labels and form validation
+- React Router navigation
+- Responsive layout for mobile and desktop devices
+- Dark and Light theme toggle
+- Theme preference saved using Local Storage
+- Accessibility-friendly labels and form validation
 
 ## Technologies Used
 
-* React
-* Vite
-* React Router DOM
-* CSS3
+- React
+- Vite
+- React Router DOM
+- CSS3
 
 ## Installation
-
-Clone or download the project and install dependencies:
 
 ```bash
 npm install
 ```
 
 ## Running the Project
-
-Start the development server:
 
 ```bash
 npm run dev
@@ -80,6 +76,6 @@ src/
 
 ## Author
 
-Erdem Yacel
+**Erdem Yacel**
 
 Data Science Student
